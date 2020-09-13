@@ -1,10 +1,10 @@
-# Machine Learning Topics
+# OpenCV Topics
 
-<li>Regression both Simple and Multiple Linear Regression</li>
-<li>Decision Tree</li>
-<li>Random Forest</li>
-<li>Logistic Regression</li>
-<li>SVM both simple and kernel</li>
-<li>KNN</li>
-<li>Neural Network or Artificial Neural Network (ANN) </li>
-<li>Performance metrics for regression</li>
+<li>Machine learning & clustering (ml, flann)</li>
+<li>Face Detection In a picture</li>
+<li>Colored Image to Binary</li>
+<li>Grayscale to Binary</li>
+<li>SQRBox Filter</li>
+<li>Thresholding</li>
+<li>Transformation Operation </li>
+<li>Face Detection in camera</li>
